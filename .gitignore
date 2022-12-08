@@ -2,4 +2,5 @@
 *.pyproj
 *.lock
 *.suo
+*.user
 */.vs/*
