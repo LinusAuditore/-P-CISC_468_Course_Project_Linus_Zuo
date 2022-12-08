@@ -1,3 +1,5 @@
 *.sln
 *.pyproj
-./468Code/.vs/*
+*.lock
+*.suo
+*/.vs/*
